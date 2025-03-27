@@ -1,5 +1,5 @@
 <h1 align="center">🎵 共融藝術 ✕ 科技 教師工作坊 🎵</h1>
-<p align="center"> 2024/25 Phase 1: Teacher Workshop </p>
+<p align="center"> 2024/25 Phase 2: Teacher Workshop </p>
 <p align="center">🧑‍🏫 Cat Fung&emsp;&emsp;👨‍🏫 Lazarus Chan&emsp;&emsp;👩‍🏫 Yan&emsp;&emsp;👨‍🏫 Andio Lai</p>
 
 
