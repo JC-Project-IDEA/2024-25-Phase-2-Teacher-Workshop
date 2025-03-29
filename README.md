@@ -10,11 +10,11 @@
 ## Useful Links:
 1. Soundtrack trimmer  https://mp3cut.net/
 2. Text to mp3 https://voicemaker.in/
-      _ACC: jcidea2425p2@gmail.com
-      PW: workshop@2425P2_
+      <p>_ACC: jcidea2425p2@gmail.com
+      PW: workshop@2425P2_</p>
 3. Free Sound https://freesound.org/
-      _ACC: jcidea
-      PW: workshop2425p2_
+      <p>_ACC: jcidea</p>
+      <p>PW: workshop2425p2_</p>
 4. Free Sound Effects https://pixabay.com/sound-effects/
 
 
