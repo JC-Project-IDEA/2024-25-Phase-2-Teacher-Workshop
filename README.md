@@ -16,8 +16,8 @@
       <p>_ACC: jcidea</p>
       <p>PW: workshop2425p2_</p>
 4. Free Sound Effects https://pixabay.com/sound-effects/
-
+5. Free Sound https://mixkit.co/
 
 ## Related Links:
-1. https://instrumentinventors.org/ 
-2. https://pudding.cool/2018/02/waveforms/
+1. iii https://instrumentinventors.org/ 
+2. Waveforms Visualize https://pudding.cool/2018/02/waveforms/
