@@ -8,7 +8,7 @@
 
 
 ## Useful Links:
-<br>1. Soundtrack trimmer  https://mp3cut.net/ </br>
+1. Soundtrack trimmer  https://mp3cut.net/
 <br>2. Text to mp3 https://voicemaker.in/ </br>
       ACC: jcidea2425p2@gmail.com      PW: workshop@2425P2
 <br>3. Free Sound https://freesound.org/ </br>
