@@ -11,7 +11,7 @@
 <br>1. Soundtrack trimmer  https://mp3cut.net/ </br>
 <br>2. Text to mp3 https://voicemaker.in/ </br>
       <p>ACC: jcidea2425p2@gmail.com</p>
-      <p>PW: workshop@2425P2</p>
+      PW: workshop@2425P2
 <br>3. Free Sound https://freesound.org/ </br>
       <p>ACC: jcidea</p>
       <p>PW: workshop2425p2</p>
