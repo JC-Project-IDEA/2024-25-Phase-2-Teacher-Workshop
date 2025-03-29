@@ -13,8 +13,8 @@
       ACC: jcidea2425p2@gmail.com      PW: workshop@2425P2
 <br>3. Free Sound https://freesound.org/ </br>
       ACC: jcidea      PW: workshop2425p2
-<br>4. Free Sound Effects https://pixabay.com/sound-effects/ </br>
-<br>5. Free Sound https://mixkit.co/ </br>
+4. Free Sound Effects https://pixabay.com/sound-effects/
+5. Free Sound https://mixkit.co/
 
 ## Related Links:
 1. iii https://instrumentinventors.org/ 
